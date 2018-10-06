@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="es-MX">
+<link rel="stylesheet" type="text/css" href="styles.css"/>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +11,6 @@
 <table style="text-align: left; width: 100%;" border="1"
  cellpadding="2" cellspacing="2">
  <tbody>
-    <link rel="stylesheet" type="text/css" href="styles.css">
     <div class="navegacion">
     <tr>
       <td style="text-align: center;"><a class="activo" href="index.php">Inicio / Home</a></td>
