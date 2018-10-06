@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>VPN Libre y gratutia para navegacion anonima de Last Dragon</title>
+<title>VPN Libre y gratutia para navegación anónima de Last Dragon</title>
 </head>
 
 
@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td style="text-align: center;"><a href="index.php">Inicio / Home</a></td>
-      <td style="text-align: center;"><a href="quees.php">¿ Que es este sitio ?</a></td>
+      <td style="text-align: center;"><a href="quees.php">¿ Qué es este sitio ?</a></td>
       <td style="text-align: center;"><a href="descargar.php">Descargar software y Configuración</a></td>
       <td style="text-align: center;"></td>
       <td style="text-align: center;"></td>
@@ -40,14 +40,14 @@ src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </p>
 
 
-¿ Que es esto ?<br>
+¿ Qué es esto ?<br>
 <br>
 Es un servicio de VPN gratuito que usa puro software libre para
 funcionar, Su mantenimiento intenta ser pagado con la publicidad en el
 sitio, por lo que las cuentas de navegación solo tienen una vida de un
 día.<br>
 <br>
-OpenVPN es un software de VPN que puede instalarse en GNU/Linux, MS/Windows, MacOS X, Android y IOS ( Iphone )
+OpenVPN es un software de VPN que puede instalarse en GNU/Linux, MS/Windows, MacOS, Android y iOS ( iDevices )
 <br>
 <br>
 Cuentas y configuración.<br>

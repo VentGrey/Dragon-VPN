@@ -3,21 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>VPN Libre y gratutia para navegacion anonima de Last Dragon</title>
+<title>VPN Libre y gratutia para navegación anónima de Last Dragon</title>
 </head>
 
 
 <table style="text-align: left; width: 100%;" border="1"
  cellpadding="2" cellspacing="2">
-  <tbody>
+ <tbody>
+    <div class="navegacion">
     <tr>
       <td style="text-align: center;"><a href="index.php">Inicio / Home</a></td>
-      <td style="text-align: center;"><a href="quees.php">¿ Que es este sitio ?</a></td>
+      <td style="text-align: center;"><a href="quees.php">¿ Qué es este sitio ?</a></td>
       <td style="text-align: center;"><a href="descargar.php">Descargar software y Configuración</a></td>
       <td style="text-align: center;"></td>
       <td style="text-align: center;"></td>
       <td style="text-align: center;"></td>
-    </tr>
+      </tr>
+      </div>
   </tbody>
 </table>
 

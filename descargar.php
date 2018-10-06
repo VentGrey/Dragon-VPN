@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>VPN Libre y gratutia para navegacion anonima de Last Dragon</title>
+<title>VPN Libre y gratutia para navegación anónima de Last Dragon</title>
 </head>
 
 
@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td style="text-align: center;"><a href="index.php">Inicio / Home</a></td>
-      <td style="text-align: center;"><a href="quees.php">¿ Que es este sitio ?</a></td>
+      <td style="text-align: center;"><a href="quees.php">¿ Qué es este sitio ?</a></td>
       <td style="text-align: center;"><a href="descargar.php">Descargar software y Configuración</a></td>
       <td style="text-align: center;"></td>
       <td style="text-align: center;"></td>
@@ -42,7 +42,7 @@ src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 OpenVPN puede ser descargado de su sitio oficial desde <a href="https://openvpn.net/index.php/open-source/downloads.html">aquí.</a><br>
 <br>
-Tambien puedes descargar versiones almacenadas en este mismo servidor <br>
+También puedes descargar versiones almacenadas en este mismo servidor <br>
 <br>
 <a href="software/openvpn-install-2.4.6-I602.exe">OpenVPN para Windows</a><br>
 <a href="software/openvpn-2.4.6.tar.gz">OpenVPN Código fuente para compilar</a><br>
