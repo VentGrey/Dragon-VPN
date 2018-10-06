@@ -12,7 +12,7 @@
  <tbody>
     <div class="navegacion">
     <tr>
-      <td style="text-align: center;"><a href="index.php">Inicio / Home</a></td>
+      <td style="text-align: center;"><a class="activo" href="index.php">Inicio / Home</a></td>
       <td style="text-align: center;"><a href="quees.php">¿ Qué es este sitio ?</a></td>
       <td style="text-align: center;"><a href="descargar.php">Descargar software y Configuración</a></td>
       <td style="text-align: center;"></td>
@@ -50,7 +50,7 @@ src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
       <td style="background-color: black;">Tu IP es:</td>
     </tr>
     <tr align="center">
-      <td>Tu IP Real: 177.228.33.12 <br> Tu IP de navegacion: <iframe src="https://www.lastdragon.net/ip.php" frameborder="0" height="40" width="300"></iframe></td>
+      <td>Tu IP Real: 177.228.33.12 <br> Tu IP de navegación: <iframe src="https://www.lastdragon.net/ip.php" frameborder="0" height="40" width="300"></iframe></td>
     </tr>
   </tbody>
 </table>
