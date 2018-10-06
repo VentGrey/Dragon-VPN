@@ -11,6 +11,10 @@
 <table style="text-align: left; width: 100%;" border="1"
  cellpadding="2" cellspacing="2">
  <tbody>
+<<<<<<< HEAD
+=======
+   <link rel="stylesheet" type="text/css" href="styles.css" />
+>>>>>>> fe5e8a719238969fc705c23e8e10b9d1a2d4c2b7
     <div class="navegacion">
     <tr>
       <td style="text-align: center;"><a class="activo" href="index.php">Inicio / Home</a></td>
