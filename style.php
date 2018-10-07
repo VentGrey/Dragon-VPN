@@ -65,3 +65,6 @@ body {
     transform-origin: left top;
     transform: scale(1, 1);
 }
+
+
+/* Estilado de la dirección IP */
