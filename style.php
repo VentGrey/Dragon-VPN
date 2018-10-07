@@ -39,7 +39,11 @@ body {
     border-bottom: 3px solid #0F6EE3;
 }
 
-/* Estilado de la dirección IP */
+
+/* Estilos de las tablas */
+
+
+/* Estilo de la dirección IP */
 .direccion td {
     text-align: center;
     color: white;
