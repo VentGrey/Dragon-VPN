@@ -8,7 +8,7 @@
 </head>
 
 
-<table style="text-align: left; width: 100%;" border="1"
+<table style="text-align: left; width: 100%;" border="0"
  cellpadding="2" cellspacing="2">
  <tbody>
      <tr class="navegacion">
@@ -39,7 +39,7 @@
 
 
 
-<table style="text-align: left; width: 100%;" border="1"
+<table style="text-align: left; width: 100%;" border="0"
  cellpadding="2" cellspacing="2">
   <tbody>
     <tr class="direccion">

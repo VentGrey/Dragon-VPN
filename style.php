@@ -39,11 +39,18 @@ body {
     border-bottom: 3px solid #0F6EE3;
 }
 
+/* Estilo del primer tbody */
+tbody {
+	border-width: 0px 0px 0px 0px;
+	border-spacing: 0px;
+	border-style: hidden hidden hidden hidden;
+	border-collapse: collapse;
+}
 
 /* Estilos de las tablas */
 .navegacion td {
     border-collapse: separate;
-    border: 1px solid white;
+    border: 1px solid #0C59B9;
     border-radius: 6px;
     -moz-border-radius: 6px; /* Para FireFox */
 }
