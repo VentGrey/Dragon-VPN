@@ -42,8 +42,8 @@
 <table style="text-align: left; width: 100%;" border="1"
  cellpadding="2" cellspacing="2">
   <tbody>
-    <tr style="color: white;" align="center">
-      <td style="background-color: black;">Tu IP es:</td>
+    <tr class="direccion">
+      <td>Tu IP es:</td>
     </tr>
 
     <tr align="center">
@@ -55,7 +55,7 @@
 <p>
     <center>
         <form method="POST" action="https://vpn.lastdragon.net/genuser.php">
-        <input type="submit" value="Generar usuario">
+            <input type="submit" value="Generar usuario">
         </form>
     </center>
 </p>

@@ -68,3 +68,8 @@ body {
 
 
 /* Estilado de la dirección IP */
+.direccion td {
+    text-align: center;
+    color: white;
+    background-color: #0F1011;
+}

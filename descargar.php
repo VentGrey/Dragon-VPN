@@ -4,20 +4,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>VPN Libre y gratutia para navegación anónima de Last Dragon</title>
+<link rel="stylesheet" type="text/css" href="style.php"/>
 </head>
+
 
 
 <table style="text-align: left; width: 100%;" border="1"
  cellpadding="2" cellspacing="2">
-  <tbody>
-    <tr>
-      <td style="text-align: center;"><a href="index.php">Inicio / Home</a></td>
-      <td style="text-align: center;"><a href="quees.php">¿ Qué es este sitio ?</a></td>
-      <td style="text-align: center;"><a href="descargar.php">Descargar software y Configuración</a></td>
-      <td style="text-align: center;"></td>
-      <td style="text-align: center;"></td>
-      <td style="text-align: center;"></td>
-    </tr>
+ <tbody>
+     <tr class="navegacion">
+        <td style="text-align: center;"><a href="index.php">Inicio / Home</a></td>
+        <td style="text-align: center;"><a href="quees.php">¿ Qué es este sitio ?</a></td>
+        <td style="text-align: center;"><a class="activo" href="descargar.php">Descargar software y Configuración</a></td>
+        <td style="text-align: center;"></td>
+        <td style="text-align: center;"></td>
+        <td style="text-align: center;"></td>
+      </tr>
   </tbody>
 </table>
 
