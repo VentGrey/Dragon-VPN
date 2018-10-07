@@ -41,7 +41,12 @@ body {
 
 
 /* Estilos de las tablas */
-
+.navegacion td {
+    border-collapse: separate;
+    border: 1px solid white;
+    border-radius: 6px;
+    -moz-border-radius: 6px; /* Para FireFox */
+}
 
 /* Estilo de la dirección IP */
 .direccion td {
