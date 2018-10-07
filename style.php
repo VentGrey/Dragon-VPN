@@ -4,7 +4,7 @@
 
 /* Color del cuerpo de la página */
 body {
-    background: #151619;
+    background: #FAFAFA;
 }
 
 /* Color de fondo para la barra de navegación superior */
@@ -72,4 +72,19 @@ body {
     text-align: center;
     color: white;
     background-color: #0F1011;
+    font-weight: 900;
+}
+
+.vpn td {
+    text-align: center;
+    color: white;
+    background-color: #0F1011;
+    font-weight: 900;
+}
+
+.vpn iframe {
+    text-align: center;
+    color: white;
+    background-color: #0F1011;
+    font-weight: 900;
 }

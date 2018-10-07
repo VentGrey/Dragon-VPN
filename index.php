@@ -46,7 +46,7 @@
       <td>Tu IP es:</td>
     </tr>
 
-    <tr align="center">
+    <tr class="vpn">
       <td>Tu IP Real: 177.228.33.12 <br> Tu IP de navegación: <iframe src="https://www.lastdragon.net/ip.php" frameborder="0" height="40" width="300"></iframe></td>
     </tr>
   </tbody>
