@@ -11,10 +11,11 @@
 /* Estilar los enlaces dentro de la barra de navegacion */
 .navegacion a {
     float: left;
-    color: darkred;
+    color: white;
     padding: 14px 16px;
     text-align: center;
     font-size: 17px;
+    font-weight: bold;
     text-decoration: none;
 }
 
@@ -30,5 +31,3 @@
     background-color: white;
     color: white;
 }
-
-

@@ -11,8 +11,7 @@
 <table style="text-align: left; width: 100%;" border="1"
  cellpadding="2" cellspacing="2">
  <tbody>
-    <div class="navegacion">
-    <tr>
+     <tr class="navegacion">
       <td style="text-align: center;"><a class="activo" href="index.php">Inicio / Home</a></td>
       <td style="text-align: center;"><a href="quees.php">¿ Qué es este sitio ?</a></td>
       <td style="text-align: center;"><a href="descargar.php">Descargar software y Configuración</a></td>
@@ -20,7 +19,6 @@
       <td style="text-align: center;"></td>
       <td style="text-align: center;"></td>
       </tr>
-      </div>
   </tbody>
 </table>
 
@@ -67,7 +65,6 @@ src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 <p>
 <center>
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Dragonminimalista -->
 <ins class="adsbygoogle"
@@ -77,12 +74,8 @@ src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
 </center>
 </p>
-
-
 </html>
 
 
