@@ -2,9 +2,14 @@
     header("Content-Type: text/css; charset: UTF-8");
 ?>
 
+/* Color del cuerpo de la página */
+body {
+    background: #151619;
+}
+
 /* Color de fondo para la barra de navegación superior */
 .navegacion {
-    background-color: #C8252C;
+    background-color: #272A31;
     overflow: hidden;
 }
 
@@ -21,13 +26,13 @@
 
 /* Coloreado de los enlaces una vez se pase el cursor encima de éstos */
 .navegacion a:hover {
-    background-color: white;
+    background-color: #0F1011;
     color: red; /* por mientras */
 }
 
 /* Colorear los enlaces cuando estos se encuentren activos */
 
 .navegacion a.activo {
-    background-color: white;
+    background-color: #0F1011;
     color: white;
 }
