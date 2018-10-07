@@ -15,14 +15,23 @@ body {
 
 /* Estilar los enlaces dentro de la barra de navegacion */
 .navegacion a {
-    float: left;
-    color: white;
-    padding: 14px 16px;
-    text-align: center;
-    text-decoration: none;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 17px;
-    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.1s, background-color 0.1s;
+}
+
+.navegacion a {
+    position: relative;
+    display: block;
+    padding: 16px 0;
+    margin: 0 12px;
+    letter-spacing: 1px;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    transition: color 0.1s, background-color 0.1s, padding 0.2s ease-in;
+    color: #000;
 }
 
 /* Coloreado de los enlaces una vez se pase el cursor encima de éstos */
