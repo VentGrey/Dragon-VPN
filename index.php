@@ -23,21 +23,18 @@
 </table>
 
 <p>
-
-<center>
-<script type="text/javascript">
-    google_ad_client = "ca-pub-5748342367700253";
-    google_ad_slot = "3730532167";
-    google_ad_width = 320;
-    google_ad_height = 100;
-</script>
-<!-- Banner -->
-<script type="text/javascript"
-src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</center>
-
-
+    <center>
+        <script type="text/javascript">
+            google_ad_client = "ca-pub-5748342367700253";
+            google_ad_slot = "3730532167";
+            google_ad_width = 320;
+            google_ad_height = 100;
+        </script>
+        <!-- Banner -->
+        <script type="text/javascript"
+            src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script>
+    </center>
 </p>
 
 

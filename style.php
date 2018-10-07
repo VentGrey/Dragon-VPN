@@ -19,20 +19,15 @@ body {
     color: white;
     padding: 14px 16px;
     text-align: center;
+    text-decoration: none;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 17px;
     font-weight: bold;
-    text-decoration: none;
 }
 
 /* Coloreado de los enlaces una vez se pase el cursor encima de éstos */
-.navegacion a:hover {
-    background-color: #0F1011;
-    color: red; /* por mientras */
+.navegacion a:hover a:focus a:active {
+    color: #999;
+    text-decoration:none;
 }
 
-/* Colorear los enlaces cuando estos se encuentren activos */
-
-.navegacion a.activo {
-    background-color: #0F1011;
-    color: white;
-}
