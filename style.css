@@ -61,15 +61,17 @@ tbody {
     color: #E2525D;
     background-color: #E7E8EB;
     font-weight: 900;
-    font-size: 33px;
+    font-size: 70px;
     font-family: roboto;
 }
 
 .vpn td {
-    text-align: center;
+    text-align: left;
     color: #E2525D;
     background-color: #E7E8EB;
     font-weight: 900;
+    font-size: 90px;
+    font-family: roboto;
 }
 
 .vpn iframe {
@@ -77,4 +79,8 @@ tbody {
     color: #E2525D;
     background-color: #E7E8EB;
     font-weight: 900;
+    font-size: 90px;
+    font-family: roboto;
 }
+
+/* Fin de los estilos a la IP */
