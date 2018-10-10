@@ -50,29 +50,32 @@ tbody {
 /* Estilos de las tablas */
 .navegacion td {
     border-collapse: separate;
-    border: 0px solid black;
+    border: 0px solid #E7E8EB;
     border-radius: 6px;
     -moz-border-radius: 6px; /* Para FireFox */
 }
 
+/* FIN DE LOS MENÚS */
+
 /* Estilo de la dirección IP */
+
 .direccion td {
-    text-align: center;
-    color: white;
-    background-color: #0F1011;
+    text-align: left;
+    color: #E2525D;
+    background-color: #E7E8EB;
     font-weight: 900;
 }
 
 .vpn td {
     text-align: center;
-    color: white;
-    background-color: #0F1011;
+    color: #E2525D;
+    background-color: #E7E8EB;
     font-weight: 900;
 }
 
 .vpn iframe {
     text-align: center;
-    color: white;
-    background-color: #0F1011;
+    color: #E2525D;
+    background-color: #E7E8EB;
     font-weight: 900;
 }
