@@ -4,13 +4,13 @@
 
 /* Color del cuerpo de la página */
 body {
-    background: #FAFAFA;
+    background: #E7E8EB;
 }
 
 /* Color de fondo para la barra de navegación */
 
 .navegacion {
-    background-color:#FFFFFF;
+    background-color: #E7E8EB;
     overflow: hidden;
 }
 
@@ -31,12 +31,12 @@ body {
 /* Decoración cuando se ponga el cursor sobre un link */
 
 .navegacion a:hover {
-    border-bottom: 3px solid #0F6EE3;
+    border-bottom: 3px solid #E2525D;
 }
 
 /* Decoración cuando un link sea seleccionado */
 .navegacion a.activo {
-    border-bottom: 3px solid #0F6EE3;
+    border-bottom: 3px solid #E2525D;
 }
 
 /* Estilo del primer tbody */
@@ -50,7 +50,7 @@ tbody {
 /* Estilos de las tablas */
 .navegacion td {
     border-collapse: separate;
-    border: 1px solid black;
+    border: 0px solid black;
     border-radius: 6px;
     -moz-border-radius: 6px; /* Para FireFox */
 }
