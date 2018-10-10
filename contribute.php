@@ -17,10 +17,10 @@
      <tr class="navegacion">
         <td style="text-align: center;"><a href="index.php">Inicio</a></td>
         <td style="text-align: center;"><a href="quees.php">Acerca De</a></td>
-        <td style="text-align: center;"><a class="activo" href="descargar.php">Descargas</a></td>
+        <td style="text-align: center;"><a href="descargar.php">Descargas</a></td>
         <td style="text-align: center;"><a href="donate.php">Donaciones</a></td>
         <td style="text-align: center;"><a href="howto.php">Wiki</a></td>
-        <td style="text-align: center;"><a href="contribute.php">Contribuir</a></td>
+        <td style="text-align: center;"><a class="activo" href="contribute.php">Contribuir</a></td>
       </tr>
   </tbody>
 </table>
