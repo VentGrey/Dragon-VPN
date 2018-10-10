@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VPN Libre y gratuita para navegación anónima de Last Dragon</title>
-    <link rel="stylesheet" type="text/css" href="stype.php">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 
