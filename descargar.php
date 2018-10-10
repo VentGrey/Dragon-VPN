@@ -9,19 +9,21 @@
 
 
 
-<table style="text-align: left; width: 100%;" border="1"
+
+<table style="text-align: left; width: 100%;" border="0"
  cellpadding="2" cellspacing="2">
  <tbody>
      <tr class="navegacion">
-        <td style="text-align: center;"><a href="index.php">Inicio / Home</a></td>
-        <td style="text-align: center;"><a href="quees.php">¿ Qué es este sitio ?</a></td>
-        <td style="text-align: center;"><a class="activo" href="descargar.php">Descargar software y Configuración</a></td>
-        <td style="text-align: center;"></td>
-        <td style="text-align: center;"></td>
-        <td style="text-align: center;"></td>
+        <td style="text-align: center;"><a class="activo" href="index.php">Inicio</a></td>
+        <td style="text-align: center;"><a href="quees.php">Acerca De</a></td>
+        <td style="text-align: center;"><a href="descargar.php">Descargas</a></td>
+        <td style="text-align: center;"><a href="donate.php">Donaciones</a></td>
+        <td style="text-align: center;"><a href="howto.php">Wiki</a></td>
+        <td style="text-align: center;"><a href="contribute.php">Contribuir</a></td>
       </tr>
   </tbody>
 </table>
+
 
 <p>
 
