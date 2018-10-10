@@ -50,7 +50,7 @@ tbody {
 /* Estilos de las tablas */
 .navegacion td {
     border-collapse: separate;
-    border: 1px solid #0C59B9;
+    border: 1px solid black;
     border-radius: 6px;
     -moz-border-radius: 6px; /* Para FireFox */
 }
