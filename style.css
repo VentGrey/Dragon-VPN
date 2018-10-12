@@ -84,3 +84,15 @@ tbody {
 }
 
 /* Fin de los estilos a la IP */
+
+/* Botón de generación de usuario*/
+.genuser {
+    background-color: #CC575D; /* Arc red color */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}

@@ -55,7 +55,7 @@
 <p>
     <center>
         <form method="POST" action="https://vpn.lastdragon.net/genuser.php">
-            <input type="submit" value="Generar usuario">
+            <input class="genuser" type="submit" value="Generar usuario">
         </form>
     </center>
 </p>
