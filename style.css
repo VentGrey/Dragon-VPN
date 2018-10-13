@@ -16,7 +16,7 @@ body {
 .navegacion a {
     float: left;
     display: block;
-    color: blue;
+    color: #5C616C;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -84,7 +84,7 @@ tbody {
 }
 
 .vpn td {
-    text-align: right;
+    text-align: center;
     color: #CC575D;
     background-color: #E7E8EB;
     font-weight: 900;
