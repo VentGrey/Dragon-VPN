@@ -47,7 +47,7 @@
     </tr>
 
     <tr class="vpn">
-      <td>177.228.33.12 <br> Tu IP con DragonVPN: <iframe class="ext-vpn" src="https://www.lastdragon.net/ip.php" frameborder="0" height="40" width="300"></iframe></td>
+      <td>177.228.33.12 <br> Tu IP con DragonVPN: <iframe src="https://www.lastdragon.net/ip.php" frameborder="0" height="40" width="300"></iframe></td>
     </tr>
   </tbody>
 </table>
