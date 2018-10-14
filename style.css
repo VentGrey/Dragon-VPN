@@ -97,4 +97,5 @@ tbody {
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
+    border-radius: 8px;
 }
