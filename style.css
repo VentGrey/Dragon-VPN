@@ -65,13 +65,8 @@ tbody {
     font-family: roboto;
 }
 
-.vpn iframe {
-    text-align: center;
-    color: #CC575D;
-    background-color: #E7E8EB;
-    font-weight: 900;
-    font-size: 90px;
-    font-family: roboto;
+iframe body{
+    border: none;
 }
 
 .vpn td {
@@ -81,11 +76,6 @@ tbody {
     font-weight: 900;
     font-size: 70px;
     font-family: roboto;
-}
-
-.vpnbr {
-    text-align: center;
-    color: black;
 }
 
 /* Fin de los estilos a la IP */
@@ -106,4 +96,7 @@ tbody {
 .genuser:hover {
    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
+
+/* Fin del CSS para INDEX.html */
+
 
