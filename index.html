@@ -5,22 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VPN Libre y gratutia para navegación anónima de Last Dragon</title>
     <link rel="stylesheet" type="text/css" href="style.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="verIP.js"></script>
 </head>
 
 
-<table style="text-align: left; width: 100%;" border="0"
- cellpadding="2" cellspacing="2">
- <tbody>
-     <tr class="navegacion">
-        <td style="text-align: center;"><a class="activo" href="index.html">Inicio</a></td>
-        <td style="text-align: center;"><a href="quees.html">Acerca De</a></td>
-        <td style="text-align: center;"><a href="descargar.html">Descargas</a></td>
-        <td style="text-align: center;"><a href="donate.html">Donaciones</a></td>
-        <td style="text-align: center;"><a href="howto.html">Wiki</a></td>
-        <td style="text-align: center;"><a href="contribute.html">Contribuir</a></td>
-      </tr>
-  </tbody>
-</table>
+<body>
+  <!-- Menu de Navegacion -->
+  <nav>
+    <ul>
+      <li><a class="activo" href="index.html">Inicio</a></li>
+      <li><a href="quees.html">Acerca De</a></li>
+      <li><a href="descargar.html">Descargas</a></li>
+      <li><a href="donate.html">Donaciones</a></li>
+      <li><a href="howto.html">Wiki</a></li>
+      <li><a href="contribute.html">Contribuir</a></li>
+    </ul>
+  </nav>
+  <!-- Fin del Menu de Navegacion -->
 
 <p>
     <center>
@@ -47,10 +49,11 @@
     </tr>
 
     <tr class="vpn">
-      <td>177.228.33.12 <p>Tu IP con DragonVPN: <iframe src="https://www.lastdragon.net/ip.php"></iframe></p></td>
+      <td>177.228.33.12 <p>Tu IP con DragonVPN: <h4 id="verIP"></h4></p></td>
     </tr>
   </tbody>
 </table>
+
 
 <p>
     <center>
@@ -74,4 +77,5 @@
         </script>
     </center>
 </p>
+</body>
 </html>
