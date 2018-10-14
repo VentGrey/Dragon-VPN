@@ -3,36 +3,69 @@
 body {
     background: #E7E8EB;
 }
-
-/* Color de fondo para la barra de navegación */
-
-.navegacion {
-    background-color: #E7E8EB;
-    overflow: hidden;
+/* Estilizando el FRAME*/
+iframe{
+  height:35px;
+  min-height:35px;
+  min-width: 200px;
+  width: 200px;
 }
 
+iframe{
+    border:none;
+
+}
+
+/* Color de fondo para la barra de navegación */
 /* Colores bonitos a los links */
 
-.navegacion a {
-    float: left;
-    display: block;
-    color: #5C616C;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 18px;
+nav ul {
+
+  /* propiedades de flexbox */
+  align-items: baseline;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  /* fin del flexbox */
+  min-height: 3.75em;
+  /* propiedades de flexbox */
+  justify-content:space-around;
+  /* fin del flexbox */
+  margin: 0;
+  padding: 0 2px;
+}
+
+
+/* Colores bonitos a los links */
+nav ul > li {
+/* propiedades de flexbox */
+  flex: 1;
+/* fin del flexbox */
+  list-style: none;
+}
+
+nav ul li{
     border-bottom: 3px solid transparent;
+    text-align: center;
+}
+
+nav ul li a{
+    color: #5C616C;
+    display: block;
     font-family: roboto;
+    font-size: 18px;
+    padding: 0.875em 1em;
+    text-decoration: none;
 }
 
 /* Decoración cuando se ponga el cursor sobre un link */
 
-.navegacion a:hover {
+nav a:hover {
     border-bottom: 3px solid #E2525D;
 }
 
 /* Decoración cuando un link sea seleccionado */
-.navegacion a.activo {
+nav a:active {
     border-bottom: 3px solid #E2525D;
 }
 
@@ -65,9 +98,7 @@ tbody {
     font-family: roboto;
 }
 
-iframe body{
-    border: none;
-}
+
 
 .vpn td {
     text-align: center;
@@ -98,5 +129,3 @@ iframe body{
 }
 
 /* Fin del CSS para INDEX.html */
-
-
