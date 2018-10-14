@@ -74,14 +74,7 @@ tbody {
     font-family: roboto;
 }
 
-.vpn iframe {
-    text-align: center;
-    color: #CC575D;
-    background-color: #E7E8EB;
-    font-weight: 900;
-    font-size: 90px;
-    font-family: roboto;
-}
+
 
 .vpn td {
     text-align: center;
