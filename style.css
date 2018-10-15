@@ -63,14 +63,6 @@ tbody {
 	border-collapse: collapse;
 }
 
-/* Estilos de las tablas */
-.navegacion td {
-    border-collapse: separate;
-    border: 0px solid #E7E8EB;
-    border-radius: 6px;
-    -moz-border-radius: 6px; /* Para FireFox */
-}
-
 /* FIN DE LOS MENÚS */
 
 /* Estilo de la dirección IP */
