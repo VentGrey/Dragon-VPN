@@ -111,3 +111,9 @@ input[type=submit]:hover {
     font-weight: 800;
     font-family: roboto;
 }
+
+.service {
+    color: #2F343F;
+    font-weight: 600;
+    font-family: roboto;
+}
