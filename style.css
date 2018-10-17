@@ -65,13 +65,36 @@ tbody {
 
 /* FIN DE LOS MENÚS */
 
+
+/* CSS para el footer de todas las páginas */
+
+footer {
+    position: relative;
+    height: 100px;
+    width: 100%;
+    background-color: #CC575D;
+    text-align: center;
+    font-family: roboto;
+}
+
+p.copyright {
+    text-align: center;
+    position: absolute;
+    color: #E7E8EB;
+    font-family: roboto;
+    font-weight: 500;
+
+}
+
+/* Fin del CSS para el footer */
+
 /* Estilo de la dirección IP */
 
 main section article{
 	background-color: #E7E8EB;
    color: #CC575D;
 	font-family: roboto;
-	font-size: 4em;    
+	font-size: 4cm;
    font-weight: 900;
    line-height: 15%;
    text-align: center;
@@ -117,3 +140,5 @@ input[type=submit]:hover {
     font-weight: 600;
     font-family: roboto;
 }
+
+/* Fin del CSS para quees.html */
