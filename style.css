@@ -140,3 +140,21 @@ input[type=submit]:hover {
 }
 
 /* Fin del CSS para quees.html */
+
+/* Inicio del CSS para la página de descargas */
+
+.download {
+    text-align: center;
+    color: #CC575D;
+    font-weight: 900;
+    font-family: roboto;
+}
+
+.ovpn {
+    text-align: center;
+    color: #5294E2;
+    font-weight: 900;
+    font-family: roboto;
+}
+
+/* Fin del CSS para la página de descargas */
