@@ -158,3 +158,33 @@ input[type=submit]:hover {
 }
 
 /* Fin del CSS para la página de descargas */
+
+/* Inicio del CSS para la página de donaciones */
+
+.donation1 {
+    text-align: center;
+    color: #CC575D;
+    font-weight: 900;
+    font-family: roboto;
+}
+
+.ayuda {
+    text-align: center;
+    color: #CC575D;
+    font-weight: 900;
+    font-family: roboto;
+}
+
+.cafe {
+    text-align: center;
+    color: #5294E2;
+    font-weight: 900;
+    font-family: roboto;
+}
+
+.donlink {
+    text-align: center;
+    color: #5294E2;
+    font-weight: 900;
+    font-family: roboto;
+}
