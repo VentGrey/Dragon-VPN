@@ -188,3 +188,14 @@ input[type=submit]:hover {
     font-weight: 900;
     font-family: roboto;
 }
+
+/* Fin del CSS para la página de donaciones */
+
+/* Inicio del CSS para la página de instrucciones */
+
+.instrucciones {
+    text-align: center;
+    color: #CC575D;
+    font-weight: 900;
+    font-family: roboto;
+}
